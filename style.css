@@ -48,7 +48,7 @@ html {
   cursor: pointer;
   width: 150px;
   display: block;
- position: absolute;
+ position: relative;
 }
 
 .btn-group .button:not(:last-child) {
