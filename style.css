@@ -13,6 +13,30 @@ background-repeat:repeat;
   display: table;
 }
 
+[class*="col-"] {
+  float: right;
+  padding: 15px;
+  text-align: center;
+}
+
+html {
+  font-family: 'Merriweather', serif;
+}
+
+.header {
+  background-color: #0379ff;
+  color: #ffffff;
+  padding: 5px;
+	border-radius: 8px;
+  text-align: center;
+}
+
+.header img {
+  float: none;
+  width: 125px;
+  height: 125px;
+}
+
 .pagination {
   display: inline-block;
 }
