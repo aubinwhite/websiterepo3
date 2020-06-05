@@ -13,10 +13,23 @@ background-repeat:repeat;
   display: table;
 }
 
-[class*="col-"] {
-  float: middle;
-  padding: 15px;
+.pagination {
   text-align: center;
+}
+.pagination a {
+  + display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-left: 3px;
+  background: url();
+}
+.pagination a.last {
+  width: 90px;
+  background: url();
+}
+.pagination a.first {
+  width: 60px;
+  background: url();
 }
 
 html {
