@@ -48,7 +48,7 @@ html {
   display: block;
   position:relative;
     top:50%; 
-    left:80%;
+    left:40%;
 }
 
 .btn-group .button:not(:last-child) {
