@@ -43,7 +43,15 @@ html {
 
   list-style-type: none;
 
- width: 100%;
+   width: 100%;
+
+  display: block;
+
+  position:relative;
+
+  margin-left:0px;
+
+  margin-right:50px;
 
   padding: 0;
 
