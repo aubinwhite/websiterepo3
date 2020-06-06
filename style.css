@@ -49,6 +49,8 @@ html {
   position:relative;
     top:50%; 
     left:45%;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .btn-group .button:not(:last-child) {
