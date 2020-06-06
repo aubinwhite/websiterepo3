@@ -37,18 +37,9 @@ html {
   height: 125px;
 }
 
-
-
-a:link, a:visited {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  width: 300px;
+div {
+  width:800px;
   margin: auto;
-}
-
-a:hover, a:active {
-  background-color: red;
+  border: 1px solid red;
+  text-align: center;
 }
