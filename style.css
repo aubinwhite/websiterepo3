@@ -21,13 +21,13 @@ background-repeat:repeat;
 
 html {
   font-family: 'Merriweather', serif;
-   font-size: 40.0%;
+   font-size: 100%;
 }
 
 .header {
   background-color: #0379ff;
   color: #ffffff;
-  padding: 20px;
+  padding: 16px;
 	border-radius: 8px;
  text-align: center;
 }
