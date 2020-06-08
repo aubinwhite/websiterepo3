@@ -68,8 +68,9 @@ html {
    height: 80px;
    background-color: red;
    color: white;
+   padding-top: 30px;
+   padding-bottom: 30px;
    text-align: center;
-padding-top: 20px;
    border: 1px solid green;
    border-radius: 6px
 }
