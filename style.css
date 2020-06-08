@@ -34,8 +34,8 @@ html {
   float: none;
   padding-top: 15px;
   padding-bottom: 5px;
-  width: 125px;
-  height: 125px;
+  width: 130px;
+  height: 130px;
 }
 
 .btn-group button {
@@ -69,6 +69,8 @@ html {
    background-color: red;
    color: white;
    text-align: center;
+padding-top: 20px;
+padding-bottom: 20px;
    border: 1px solid green;
    border-radius: 6px
 }
