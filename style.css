@@ -14,7 +14,7 @@ background-repeat:repeat;
 }
 
 [class*="col-"] {
-  float: left;
+  float: right;
   text-align: center;
 }
 
