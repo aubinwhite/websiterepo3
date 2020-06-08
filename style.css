@@ -32,6 +32,8 @@ html {
 
 .header img {
   float: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
   width: 125px;
   height: 125px;
 }
