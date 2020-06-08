@@ -16,8 +16,8 @@ background-repeat:repeat;
 [class*="col-"] {
   float: left;
   text-align: center;
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 html {
