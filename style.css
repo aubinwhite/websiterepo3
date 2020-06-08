@@ -14,7 +14,7 @@ background-repeat:repeat;
 }
 
 [class*="col-"] {
-  float: right;
+  float: left;
   text-align: center;
 }
 
@@ -32,8 +32,6 @@ html {
 
 .header img {
   float: none;
-  padding-top: 20;
-  padding-bottom: 20%;
   width: 125px;
   height: 125px;
 }
