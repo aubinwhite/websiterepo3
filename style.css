@@ -43,8 +43,8 @@ html {
   border: 1px solid green; /* Green border */
   border-radius: 6px;
   color: white; /* White text */
-   text-decoration: none;
   font-family: 'Merriweather', serif;
+   text-decoration: none;
   font-size: 125%;
   padding: 20px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
