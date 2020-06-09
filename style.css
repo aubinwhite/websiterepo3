@@ -45,7 +45,7 @@ html {
   color: white; /* White text */
   font-family: 'Merriweather', serif;
   font-size: 125%;
-  padding: 24px 24px; /* Some padding */
+  padding: 15px 24px; /* Some padding */
   cursor: pointer; /* Pointer/hand icon */
   width: 100%; /* Set a width if needed */
   height: 60px;
