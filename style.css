@@ -20,7 +20,8 @@ background-repeat:repeat;
 
 .header {
   background-color: #5FE80C;
-  border: 2px #FF3C00;
+  border: 2px,
+  border-color: #FF3C00;
   border-radius: 8px;
   text-align: center;
 }
