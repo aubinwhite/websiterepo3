@@ -20,6 +20,7 @@ background-repeat:repeat;
 
 .header {
   background-color: #5FE80C;
+  border: 2px #FF3C00;
   border-radius: 8px;
   text-align: center;
 }
@@ -34,7 +35,7 @@ background-repeat:repeat;
 
 .btn-group button {
   background-color: #FF3C00; /* Green background */
-  border: 1px solid green; /* Green border */
+  border: 2px #5FE80C;
   border-radius: 6px;
   color: #0D15FF; /* White text */
   font-family: 'Merriweather', serif;
@@ -68,6 +69,6 @@ background-repeat:repeat;
    font-family: 'Merriweather', serif;
    font-size: 125%;
    text-align: center;
-   border: 1px solid green;
+   border: 2px #FF3C00;
    border-radius: 6px;
 }
