@@ -23,6 +23,21 @@ body {
   background: white;
 }
 
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 400px;
+   background-color: #5FE80C;
+   color: #0D15FF;
+   padding-top: 7px;
+   font-family: 'Merriweather', serif;
+   font-size: 125%;
+   text-align: center;
+   border: 2px solid #FF3C00;
+   border-radius: 6px;
+}
+
 
 .footer {
    left: 0;
