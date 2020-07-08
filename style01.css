@@ -8,19 +8,19 @@ background-repeat:repeat;
   box-sizing: border-box;
 }
 
-.flex-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 300px;
-  background-color: DodgerBlue;
+.container {
+  position: relative;
 }
 
-.flex-container>div {
-  background-color: #f1f1f1;
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
   color: white;
-  width: 100px;
-  height: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .footer {
