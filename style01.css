@@ -4,10 +4,6 @@ background-image:url('https://raw.githubusercontent.com/aubinwhite/websiterepo3/
 background-repeat:repeat;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .container {
   position: relative;
 }
