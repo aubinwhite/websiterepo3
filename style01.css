@@ -1,4 +1,10 @@
 
+body{
+background-image:url('https://raw.githubusercontent.com/aubinwhite/websiterepo3/master/images/blucrctbrdptrn.png');
+background-repeat:repeat;
+}
+
+/* Page Body */
 img {
   display: block;
 }
